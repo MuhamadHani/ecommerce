@@ -1,0 +1,58 @@
+.footer{
+  height: 300px;
+  width: 100vw;
+  background-color: rgb(34, 34, 34);
+  margin-top: 300px;
+  /* border-radius: 100px 100px 0 0 ; */
+  color: white;
+  list-style-type: none
+
+}
+.firstpart{
+  line-height: 35px;
+  margin-left: 75px;
+  position: relative;
+  top: 5px;
+
+}
+.firstsub{
+  /* color: rgb(13, 214, 214); */
+}
+.follow{
+position: relative;
+bottom: 687px;
+left: 1515px;
+gap: 26px;
+}
+.linkedin,.facebook,.slack,.twitter,.youtube{
+ /* background-color: rgb(13, 214, 214); */
+ border: none;
+ height: 35px;
+ position: relative;
+ /* top: 10px; */
+
+
+
+}
+.second{
+  line-height: 35px;
+  /* margin-left: 75px; */
+  position: relative;
+  bottom: 168px;
+  left: 450px;
+}
+.socialmedia{
+  position: relative;
+  top: 10px;
+
+}
+.third{
+  line-height: 35px;
+  /* margin-left: 75px; */
+  position: relative;
+  bottom: 412px;
+  left: 950px;
+}
+h3{
+  color: rgb(43, 224, 43);
+}

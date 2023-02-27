@@ -1,0 +1,52 @@
+.square{
+  height: 350px;
+  width: 90%;
+  background-color:rgb(252, 240, 228);
+ align-items: center;
+ justify-content: baseline;
+ margin-left: 70px;
+ position: relative;
+ top: 80px;
+}
+.btnBuy{
+  border: none;
+  background-color:  rgb(0,61,40);
+  color: white;
+  height: 45px;
+  width: 120px;
+  border-radius: 20px;
+  position: relative;
+  left: 45px;
+  bottom: 250px;
+  font-weight: bold;
+}
+.contetent
+{
+  position: relative;
+  left: 45px;
+  top: 55px;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.first{
+  font-size: 75px;
+  color: rgb(0,61,40);
+
+}
+.second{
+  font-size: 65px;
+  color:  rgb(0,61,40);
+}
+.adImage{
+  height: 350px;
+  position: relative;
+  bottom: 161px;
+  left: 1003px;
+}

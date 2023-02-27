@@ -1,0 +1,77 @@
+body{
+  background-color: aqua;
+}
+.navbar{
+  position: absolute;
+  /* bottom: 501px; */
+  /* left: 100px; */
+  margin-left: 140px;
+  display: flex;
+  gap: 45px;
+  justify-content: space-around;
+padding: 30px;
+ flex-direction: row;
+
+}
+.nav{
+  border: none;
+  background-color: rgba(255, 0, 0, 0);
+  /* font-weight: 600; */
+}
+.logo{
+  height: 35px;
+}
+.logogrp{
+  color: rgb(0,61,40);
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  right: 90px;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+
+
+}
+.category,.search{
+  display: flex;
+  gap: 55px;
+}
+
+.searching{
+  border: none;
+  background-color: rgba(218, 218, 218, 0.445);
+  border-radius: 20px;
+  padding: 10px;
+  width: 285px;
+}
+.material-symbols-outlined{
+  position: relative;
+  top: 5px;
+}
+#categoryup
+{
+  position: relative;
+  bottom: 5px;
+}
+#account,#cart{
+  /* position: relative; */
+  font-size: medium;
+}
+/* .navbars{
+  position: absolute;
+  bottom: 320px;
+} */
+.search{
+  position: relative;
+  left: 342px;
+}
+.category{
+  position: relative;
+  left: 250px;
+}

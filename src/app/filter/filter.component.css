@@ -1,0 +1,25 @@
+.filter{
+  position: relative;
+  display: flex;
+ gap: 15px;
+ top: 125px;
+ left: 75px;
+
+
+}
+.btnfilter{
+  border: none;
+  border-radius: 15px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 18px;
+  font-weight: bold;
+  /* padding-bottom: 25px; */
+
+
+}
+.material-symbols-outlined
+{
+  position: relative;
+  top: 7px;
+}

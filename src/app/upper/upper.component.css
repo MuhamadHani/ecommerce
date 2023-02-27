@@ -1,0 +1,43 @@
+
+.upper{
+ display: flex;
+
+  height: 5px;
+  /* width: 100%; */
+  background-color: rgb(0,61,40);
+  color: white;
+  padding: 15px;
+  font-size: 13px;
+  justify-content: space-between;
+  font-family: sans-serif;
+  padding-left: 48px;
+  padding-right: 48px;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.btnUpper{
+  border: none;
+  color: white;
+  background-color: rgba(0, 61, 40, 0);
+  position: relative;
+  bottom: 12px;
+}
+.material-symbols-outlined{
+  position: relative;
+  top: 7px;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
